@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "GDG DevFest Kozhikode 2014"
+title: "GDG DevFest Kozhikode 201"
 email: "gdgkozhikode@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/devfest-web"
