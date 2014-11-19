@@ -60,26 +60,25 @@ eventDate: "29th November 2014, Saturday"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Kozhikode"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Register"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "About Event"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Speaker Talks", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Code Lab", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
-statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+//statisticBlockImage: "statistic.jpg"
+//statisticBlock:
+ //- {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ //- {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ //- {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ //- {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+//latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -89,19 +88,19 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "NIT Calicut"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Lviv"
-eventAddressLocalityRegion: "Lvivska"
-eventPostalCode: "79000"
-eventAddressCountry: "Ukraine"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
-eventPlaceCoordinates: "49.843237, 24.028751"
-mapCenterCoordinates: "49.842537, 24.025701"
-mapMobileCenterCoordinates: "49.841620, 24.029411"
+eventLocationName: "National Institute of Technology Calicut"
+eventLocationLink: "http://www.nitc.ac.in"
+eventStreetAddress: "NIT Campus PO"
+eventAddressLocality: "Kettangal Koduvally Road"
+eventAddressLocalityRegion: "Calicut, Kerala"
+eventPostalCode: "673601"
+eventAddressCountry: "India"
+eventStartTime: "2014-11-29T09:00"
+eventDoorTime: "01:00"
+eventEndTime: "2014-11-29T05:00"
+eventPlaceCoordinates: "11.321402,75.936988"
+mapCenterCoordinates: "11.321402,75.936988"
+mapMobileCenterCoordinates: "11.321402,75.936988"
 
 # Venue Block
 venueBlockTitle: "Venue"
@@ -115,7 +114,7 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "devfestkozhikode"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
