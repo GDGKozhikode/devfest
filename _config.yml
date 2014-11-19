@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "GDG DevFest Kozhikode 2014"
 email: "gdgkozhikode@gmail.com"
 description: "GDG DevFest is a set of events all around the world"
-baseurl: "/devfest"
+baseurl: "/devfest-web"
 url: "http://devfest.gdgkozhikode.org"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-48247100-2"
