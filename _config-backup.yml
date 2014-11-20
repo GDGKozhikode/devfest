@@ -63,14 +63,31 @@ heroButtons:
  - {link: "", text: "Register"}
 
 # About Block
-aboutTitle: ""
+aboutTitle: "About Event"
 aboutBlock:
  - {title: "Keynote Talks", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Code Lab", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
+# Statistic Block
+statisticBlockImage: "statistic.jpg"
+statisticBlock:
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+
+# Latest News Block
+latestNewsTitle: "Latest news"
+
+# Rockstar Speakers Block
+rockstarSpeakersImage: "rockstar-speakers.jpg"
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Rockstar speakers"
+rockstarSpeakersButtonText: "See all speakers"
+
 # Location Block
-locationBlockTitle: "Venue"
+locationBlockTitle: "Location"
 eventLocationName: "National Institute of Technology Calicut"
 eventLocationLink: "http://www.nitc.ac.in"
 eventStreetAddress: "NIT Campus PO"
@@ -84,6 +101,15 @@ eventEndTime: "2014-11-29T05:00"
 eventPlaceCoordinates: "11.321402,75.936988"
 mapCenterCoordinates: "11.321402,75.936988"
 mapMobileCenterCoordinates: "11.321402,75.936988"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
