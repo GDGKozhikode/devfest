@@ -65,9 +65,9 @@ heroButtons:
 # About Block
 
 aboutBlock:
- - {title: "Keynote Talks", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Code Lab", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Keynote Talks", image: "conference.jpg", text: "Keynote Talk on Developer and Startup Ecosystem, Introducion to Polymer and Wearable Technolgies and IoT." }
+ - {title: "Workshop", image: "workshop.jpg", text: "Workshop on Google Cloud Platform" }
+ - {title: "Code Lab", image: "hackathon.jpg", text: "Code Lab on Polymer" }
 rockstarScheduleButtonText: "See full schedule"
 
 # Statistic Block
@@ -207,8 +207,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
+teamBlockTitle: "About Us"
+aboutUs: "GDG Kozhikode is an amazing platform for technical enthusiasts, developers and designers. We put together a bunch of initiatives and events for you. If developing is your passion and playing designing with your back hand and you love technology, you are in the right place."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
