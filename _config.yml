@@ -53,14 +53,15 @@ bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "", text: "Register"}
 
-# Hero Block
+ # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "29th November 2014, Saturday"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Kozhikode"
+typeoutFallback: "Season"
 heroButtons:
- - {link: "", text: "Register"}
+ - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 
