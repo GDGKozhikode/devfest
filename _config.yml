@@ -68,7 +68,7 @@ aboutBlock:
  - {title: "Keynote Talks", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
  - {title: "Code Lab", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
- rockstarScheduleButtonText: "See full schedule"
+rockstarScheduleButtonText: "See full schedule"
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
