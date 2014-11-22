@@ -113,10 +113,15 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag1: "DevFestKozhikode"
-twitterHashTag2: "GDGKozhikode"
-twitterHashTag3: "DevFest"
+tweetsFeedTitle1: "Google+"
+tweetsFeedTitle2: "Twitter"
+tweetsFeedTitle3: "Facebook"
+twitterHashTag11: "DevFestKozhikode"
+twitterHashTag12: "GDGKozhikode"
+twitterHashTag21: "DevFestKozhikode"
+twitterHashTag22: "GDGKozhikode"
+twitterHashTag31: "DevFestKozhikode"
+twitterHashTag32: "GDGKozhikode"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
