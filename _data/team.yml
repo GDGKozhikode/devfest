@@ -1,7 +1,7 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
+  name: "Farish"
+  surname: "CV"
   title: "Sponsors and Speakers Manager"
   thumbnailUrl: VitaliyZasadnyy.jpg
   team: true
@@ -14,8 +14,8 @@
     - {name: "site", link: "http://zasadnyy.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
+  name: "Vishnu"
+  surname: "Sanker"
   title: "Designer and Web Developer"
   thumbnailUrl: OlehZasadnyy.jpg
   team: true
@@ -26,8 +26,8 @@
     - {name: "github", link: "https://github.com/ozasadnyy"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
+  name: "Jinu"
+  surname: "Rajendran"
   title: "Sponsors and Speakers Manager"
   thumbnailUrl: OstapAndrusiv.jpg
   team: true
@@ -39,8 +39,8 @@
     - {name: "site", link: "http://andrusiv.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
+  name: "Hemant"
+  surname: "Pugaliya"
   title: "Android Program Committee"
   thumbnailUrl: DmytroDanylyk.jpg
   subTeam: true
@@ -48,13 +48,3 @@
     - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
     - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
