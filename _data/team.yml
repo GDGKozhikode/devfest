@@ -18,47 +18,45 @@
   name: "Vishnu"
   surname: "Sanker"
   title: "Organizer, GDG Kozhikode"
-  thumbnailUrl: OlehZasadnyy.jpg
+  thumbnailUrl: vishnu.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+VishnuSankerm"}
+    - {name: "facebook", link: "http://facebook.com/vishnusanker.m"}
 - 
   id: 2
   name: "Jinu"
   surname: "Rajendran"
   title: "Organizer, GDG Kozhikode"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: jinu.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+JinuRajendran"}
+    - {name: "facebook", link: "https://facebook.com/"}
 - 
   id: 3
   name: "Akshay"
   surname: "Menon"
   title: "Organizer, GDG Kozhikode"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: akshay.png
   advisors: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}    
+    - {name: "google-plus", link: "https://google.com/+AkshayM"}
+    - {name: "facebook", link: "https://facebook.com/akshay.m7"}
+    - {name: "twitter", link: "https://twitter.com/akshaym3"}
 - 
   id: 4
   name: "Hemant"
   surname: "Pugaliya"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  title: "Google Student Ambassador, NIT Calicut"
+  thumbnailUrl: hemanth.png
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+hemantpugaliya23"}
+    - {name: "facebook", link: "https://facebook.com/hemant.pugaliya"}

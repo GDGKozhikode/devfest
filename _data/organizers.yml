@@ -6,4 +6,4 @@
   group: "Co-organizers"
   elements: 
     - {name: "NIT Calicut", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.svg"}
-    - {name: "GSA", description: "Google Student Ambassador Program", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "GSA", description: "Google Student Ambassador Program", link: "https://www.google.co.in/edu/programs/student-ambassador-program/", imageUrl: "gdg-cherkasy.svg"}
