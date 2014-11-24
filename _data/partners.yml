@@ -6,7 +6,3 @@
   group: "With support of"
   elements: 
     - {name: "IEEE Kerala Computer Society", description: "IEEE Kerala Computer Society", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
-- 
-  group: "Information partners"
-  elements: 
-    - {name: "Startup Village", description: "Startup Village", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg"}
