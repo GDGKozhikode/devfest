@@ -53,22 +53,21 @@ bottomNavigationLinks:
 rightNavigationButtons:
  - {link: "", text: "Register"}
 
- # Hero Block
+# Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "29th November 2014, Saturday"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-typeoutFallback: "Season"
+typeoutFallback: "Kozhikode"
 heroButtons:
- - {permalink: "/#tickets", text: "Register"}
+ - {link: "", text: "Register"}
 
 # About Block
-
+aboutTitle: "About Event"
 aboutBlock:
- - {title: "Keynote Talks", image: "conference.jpg", text: "Keynote Talk on Developer and Startup Ecosystem, Introducion to Polymer and Wearable Technolgies and IoT." }
- - {title: "Workshop", image: "workshop.jpg", text: "Workshop on Google Cloud Platform" }
- - {title: "Code Lab", image: "hackathon.jpg", text: "Code Lab on Polymer" }
-rockstarScheduleButtonText: "See full schedule"
+ - {title: "Keynote Talks", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Workshop", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Code Lab", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
@@ -84,11 +83,11 @@ latestNewsTitle: "Latest news"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar Speakers"
+rockstarSpeakersTitle: "Rockstar speakers"
 rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
-locationBlockTitle: "Venue"
+locationBlockTitle: "Location"
 eventLocationName: "National Institute of Technology Calicut"
 eventLocationLink: "http://www.nitc.ac.in"
 eventStreetAddress: "NIT Campus PO"
@@ -114,15 +113,9 @@ venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio syste
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle1: "Google+"
-tweetsFeedTitle2: "Twitter"
-tweetsFeedTitle3: "Facebook"
-twitterHashTag11: "DevFestKozhikode"
-twitterHashTag12: "GDGKozhikode"
-twitterHashTag21: "DevFestKozhikode"
-twitterHashTag22: "GDGKozhikode"
-twitterHashTag31: "DevFestKozhikode"
-twitterHashTag32: "GDGKozhikode"
+tweetsFeedTitle: "What's Up?"
+twitterHashTag: "devfestkozhikode"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
@@ -179,20 +172,20 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/+GDGKozhikode", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGKozhikode", icon: "twitter"}
- - {link: "https://facebook.com/GDGKozhikode", icon: "facebook"}
+ - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+ - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://www.gdgkozhikode.org", text: "GDG Kozhikode"}
+   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:gdgkozhikode@gmail.com", text: "gdgkozhikode@gmail.com"}
+   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
  -
   title: "FAQ"
   links:
@@ -207,8 +200,8 @@ discusShortName: "devfestua"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About Us"
-aboutUs: "GDG Kozhikode is an amazing platform for technical enthusiasts, developers and designers. We put together a bunch of initiatives and events for you. If developing is your passion and playing designing with your back hand and you love technology, you are in the right place."
+teamBlockTitle: "About us"
+aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
 findWayTitle: "Find your way here"
