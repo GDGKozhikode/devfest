@@ -22,7 +22,7 @@
   title: "Introducing Polymer"
   description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: presentation
-  speakers: []
+  speakers: [4]
   language: en
   complexity: "Beginner" 
   presentation: "http://itshackademic.com/"
@@ -48,6 +48,17 @@
   video: ""
 -
   id: 005
+  title: "Workshop on Google Cloud Platform"
+  description: "Google Cloud Platform lets you build and host applications and websites, store data, and analyze data on Google's scalable infrastructure."
+  subtype: workshop
+  speakers: [5]
+  language: en
+  complexity: "Beginner"
+  presentation: ""
+  video: ""
+
+-
+  id: 006
   title: "Workshop on Google Cloud Platform"
   description: "Google Cloud Platform lets you build and host applications and websites, store data, and analyze data on Google's scalable infrastructure."
   subtype: workshop
