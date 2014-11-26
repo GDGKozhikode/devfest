@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Venue"}
 
 bottomNavigationLinks:
- - {link: "", text: "Register"}
+ - {link: "/#tickets", text: "Register"}
 rightNavigationButtons:
- - {link: "", text: "Register"}
+ - {link: "/#tickets", text: "Register"}
 
  # Hero Block
 heroImage: "hero.jpg"
