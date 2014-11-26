@@ -1,9 +1,10 @@
 - 
   group: "Main organizer"
-  elements:  
-    - {name: "GDG Kozhikode", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.svg", width: "500px"}
+  elements: 
+    - {name: "GDG Kozhikode", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.svg"}
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "NIT Calicut", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.svg"}
-    - {name: "GSA", description: "Google Student Ambassador Program", link: "https://www.google.co.in/edu/programs/student-ambassador-program/", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "GDG Kozhikode", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.svg"}
+    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
+    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
