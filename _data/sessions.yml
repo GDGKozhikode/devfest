@@ -22,11 +22,11 @@
   title: "Speaker Session on Wearable Technologies and IoT"
   description: '<a href="http://www.finrobotics.com/">Fin</a> and <a href="http://techcrunch.com/2014/07/29/indian-inventor-makes-a-decidedly-unsexy-but-cool-open-source-glass-clone/">Open Source Google Glass Clone</a>'
   subtype: presentation
-  speakers: [4, 5]
+  speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "" 
+  presentation: ""
+  video: ""
 -
   id: 003
   title: "Android L Animation"
