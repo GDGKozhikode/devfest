@@ -5,7 +5,7 @@
   service: true
 -
   id: 503
-  title: "Lunch Break"
+  title: "Networking Lunch Break"
   place: "Dining room"
   service: true
 -
@@ -54,5 +54,25 @@
   speakers: [7]
   language: en
   complexity: "Beginner"
+  presentation: ""
+  video: ""
+-
+  id: 006
+  title: "Overview - GDG Kozhikode and DevFest"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: en
+  complexity: ""
+  presentation: ""
+  video: ""
+-
+  id: 007
+  title: "Closing Ceremony"
+  description: ""
+  subtype: keynote
+  speakers: []
+  language: en
+  complexity: ""
   presentation: ""
   video: ""

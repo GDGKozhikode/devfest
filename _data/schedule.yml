@@ -1,21 +1,51 @@
 - 
   date: "2014-11-29"
-  dateReadable: "November 29"
+  dateReadable: "29th November 2014"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
+    - {title: "Agenda", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "08:30 AM",
+    	endTime: "09:00 AM",
+    	sessionIds: [307]
+    }
+    - {
+        startTime: "09:00 AM",
+        endTime: "09:30 AM",
+        sessionIds: [006]
+    }
+    - {
+    	startTime: "09:30 AM",
+    	endTime: "10:30 AM",
     	sessionIds: [001]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003]
+        startTime: "10:30 AM",
+        endTime: "11:30 AM",
+        sessionIds: [002]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+        startTime: "11:30 AM",
+        endTime: "12:30 PM",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "12:30 PM",
+        endTime: "01:30 PM",
+        sessionIds: [503]
+    }
+    - {
+        startTime: "01:30 PM",
+        endTime: "03:00 PM",
+        sessionIds: [004]
+    }
+    - {
+        startTime: "03:00 PM",
+        endTime: "04:00 PM",
+        sessionIds: [005]
+    }
+    - {
+        startTime: "04:00 PM",
+        endTime: "04:15 PM",
+        sessionIds: [007]
     }
