@@ -1,5 +1,5 @@
 - 
-  id: 1
+  id: 3
   name: "Sijo"
   surname: "Kuruvilla George"
   company: "Startup Village"
@@ -10,7 +10,7 @@
   social: 
     - {name: "site", link: "https://en.wikipedia.org/wiki/Sijo_Kuruvilla_George"}
 - 
-  id: 2
+  id: 4
   name: "Arvind"
   surname: "Sanjeev"
   company: "DIY Hacking"
@@ -19,16 +19,21 @@
   thumbnailUrl: DmytroDanylyk.jpg
   rockstar: true
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
+    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
     - {name: "site", link: "http://arvindsanjeev.wikispaces.com/Arvind+Sanjeev"}
 - 
-  id: 3
+  id: 5
   name: "Anoop"
-  surname: "Nayak"
+  surname: "Anoop Nayak"
   company: "Octonius Inc."
   title: "Co-Founder"
   bio: "Mateusz is an Android GDE and GDG organizer. Works as Android Developer for Base CRM where he uses his android-abracadabras to make enterprise software users more productive."
   thumbnailUrl: MateuszHerych.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
-    - {name: "github", link: "http://github.com/anoopknayak"}
-    - {name: "linkedin", link: "http://in.linkedin.com/in/anoopknayak"}
+    - {name: "google-plus", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "twitter", link: "https://twitter.com/mherych"}
