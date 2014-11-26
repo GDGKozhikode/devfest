@@ -1,60 +1,62 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Farish"
+  surname: "CV"
+  title: "Organizer, GDG Kozhikode"
+  thumbnailUrl: farishcv.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+FarishCV"}
+    - {name: "twitter", link: "https://twitter.com/farishcv"}
+    - {name: "github", link: "https://github.com/farishcv"}
+    - {name: "facebook", link: "http://facebook.com/farish.cv"}
+    - {name: "site", link: "http://farishcv.me/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Vishnu"
+  surname: "Sanker"
+  title: "Organizer, GDG Kozhikode"
+  thumbnailUrl: vishnu.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+VishnuSankerm"}
+    - {name: "facebook", link: "http://facebook.com/vishnusanker.m"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Jinu"
+  surname: "Rajendran"
+  title: "Organizer, GDG Kozhikode"
+  thumbnailUrl: jinu.png
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+JinuRajendran"}
+    - {name: "facebook", link: "https://facebook.com/"}
+- 
+  id: 3
+  name: "Akshay"
+  surname: "Menon"
+  title: "Organizer, GDG Kozhikode"
+  thumbnailUrl: akshay.png
+  advisors: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+AkshayM"}
+    - {name: "facebook", link: "https://facebook.com/akshay.m7"}
+    - {name: "twitter", link: "https://twitter.com/akshaym3"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
+  name: "Hemant"
+  surname: "Pugaliya"
+  title: "Google Student Ambassador, NIT Calicut"
+  thumbnailUrl: hemanth.png
   subTeam: true
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
-  social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://plus.google.com/+hemantpugaliya23"}
+    - {name: "facebook", link: "https://facebook.com/hemant.pugaliya"}
