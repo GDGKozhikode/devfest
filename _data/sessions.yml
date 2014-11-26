@@ -1,6 +1,6 @@
 -
   id: 307
-  title: "Coffee Break"
+  title: "Registartion"
   place: "Hall"
   service: true
 -
@@ -24,35 +24,35 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "" 
+  complexity: "Beginner" 
   presentation: ""
-  video: ""
+  video: "https://www.youtube.com/watch?v=FntF8EUtie0"
 -
   id: 003
-  title: "Android L Animation"
-  description: "More than ever before, developing for global audience is a necessity than a luxury in today's world. Are you ready ... where to start? what does it entail? how do I do it? how to promote in local markets? This talk will address above questions for android, chrome and web developers. In our journey of the where, what and how, we will take an in-depth look at various internationalization and localization tools & strategies available to you."
+  title: "Code Lab on Polymer"
+  description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Intermediate" 
-  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
+  complexity: "Beginner" 
+  presentation: ""
 -
   id: 004
-  title: "Polymer: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Introducion to Polymer"
+  description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: keynote
-  speakers: [6]
-  language: uk
+  speakers: []
+  language: en
   complexity: "Beginner"
-  presentation: "https://speakerdeck.com/gdglviv/mateusz-herych-guava-beyond-collections"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  presentation: ""
+  video: ""
 -
   id: 005
-  title: "Test: Interacting with Google Services using nothing but HTML"
-  description: "Google has 1M APIs and services. Every API is different! Learn how you can interact with Google services without writing code! Designing your UI so it works across multiple screen sizes is no longer a nice to have, it is *the* way to build for the web. Using Polymer, we'll cover how to create robust, responsive elements that work across all platforms."
+  title: "Workshop on Google Cloud Platform"
+  description: "Google Cloud Platform lets you build and host applications and websites, store data, and analyze data on Google's scalable infrastructure."
   subtype: keynote
   speakers: [7]
   language: en
-  complexity: "Expert"
-  presentation: "https://speakerdeck.com/gdglviv/michal-tajchert-wearables-views"
-  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
+  complexity: "Beginner"
+  presentation: ""
+  video: ""
