@@ -5,5 +5,5 @@
 - 
   group: "Co-organizers"
   elements: 
-    - {name: "NIT Calicut", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "nitc-logo.png"}
-    - {name: "GSA", description: "Google Student Ambassador Program", link: "https://www.google.co.in/edu/programs/student-ambassador-program/", imageUrl: "Student_Ambassador_Small.png"}
+    - {name: "NIT Calicut", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "nitc-logo.png" , width: "150px"}
+    - {name: "GSA", description: "Google Student Ambassador Program", link: "https://www.google.co.in/edu/programs/student-ambassador-program/", imageUrl: "Student_Ambassador_Small.png" , width: "150px"}

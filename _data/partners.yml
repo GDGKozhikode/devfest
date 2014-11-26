@@ -5,4 +5,4 @@
 - 
   group: "With support of"
   elements: 
-    - {name: "IEEE Kerala Computer Society", description: "IEEE Kerala Computer Society", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.svg", width: "120px"}
+    - {name: "IEEE Kerala Computer Society", description: "IEEE Kerala Computer Society", link: "https://www.ieeekerala.org", imageUrl: "kerala-cs.png", width: "120px"}
