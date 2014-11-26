@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements:  
-    - {name: "GDG Kozhikode", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.svg", width: "700px"}
+    - {name: "GDG Kozhikode", description: "Google Developer Group Kozhikode", link: "http://www.gdgkozhikode.org", imageUrl: "GDG_Kozhikode.png"}
 - 
   group: "Co-organizers"
   elements: 
