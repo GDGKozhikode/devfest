@@ -5,13 +5,13 @@
     - {title: "Agenda", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "08:30 AM",
-    	endTime: "09:00 AM",
+    	startTime: "08:30",
+    	endTime: "09:00",
     	sessionIds: [307]
     }
     - {
-        startTime: "09:00 AM",
-        endTime: "09:30 AM",
+        startTime: "09:00",
+        endTime: "09:30",
         sessionIds: [006]
     }
     - {
