@@ -66,10 +66,5 @@
 -
   id: 007
   title: "Closing Ceremony"
-  description: ""
-  subtype: keynote
-  speakers: []
-  language: en
-  complexity: ""
-  presentation: ""
-  video: ""
+  place: "Hall"
+  service: true
