@@ -16,7 +16,6 @@
   speakers: [3]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 002
   title: "Speaker Session on Wearable Technologies and IoT"
@@ -24,18 +23,16 @@
   subtype: presentation
   speakers: [4]
   language: en
-  complexity: "Beginner" 
-  presentation: ""
+  complexity: "Beginner"
   video: "https://www.youtube.com/watch?v=FntF8EUtie0"
 -
   id: 003
   title: "Code Lab on Polymer"
   description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
-  subtype: presentation
+  subtype: workshop
   speakers: [6]
   language: en
   complexity: "Beginner" 
-  presentation: ""
 -
   id: 004
   title: "Introducion to Polymer"
