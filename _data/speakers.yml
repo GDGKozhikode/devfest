@@ -54,8 +54,8 @@
   id: 7
   name: "Amrit"
   surname: "Sanjeev"
-  company: "Google, Developer Relations"
-  title: "Program Manager"
+  company: "Google India"
+  title: "Program Manager, Developer Relations"
   bio: "Program manager in Developer Relations Group @ Google"
   thumbnailUrl: amrit.jpg
   rockstar: true
