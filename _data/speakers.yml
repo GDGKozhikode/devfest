@@ -69,7 +69,7 @@
   name: "Praveen"
   surname: "Sridhar"
   company: "Google Summer of Code 2014"
-  title: "Participant"
+  title: "Intern"
   bio: "Praveen is a final year Mechanical Engineering student at CUSAT, who believes that Engineering and Computation must go hand in hand. An Open Knowledge enthusiast, he actively volunteers with the Mozilla community, promoting Web and Digital literacy. His GSoC project involved the development of an Indic Language Keyboard for Firefox OS."
   thumbnailUrl: praveen-sridhar.jpg
   social: 
@@ -77,3 +77,18 @@
     - {name: "linkedin", link: "http://in.linkedin.com/in/praveensridhar"}
     - {name: "twitter", link: "https://twitter.com/psbots"}
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=1078767553"}
+- 
+  id: 7
+  name: "Saleeh"
+  surname: "K"
+  company: "Coffye Innovations Pvt. Ltd."
+  title: "Co-Founder"
+  bio: "Co-Founder @ Coffye Innovations Pvt. Ltd."
+  thumbnailUrl: saleeh.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+SALEEHk"}
+    - {name: "linkedin", link: "http://in.linkedin.com/in/saleeh93"}
+    - {name: "github", link: "https://github.com/saleeh93"}
+    - {name: "facebook", link: "https://www.facebook.com/saleeh.k"}
+    - {name: "site", link: "http://www.saleehk.com/"}
+
