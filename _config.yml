@@ -55,7 +55,7 @@ rightNavigationButtons:
 
  # Hero Block
 heroImage: "hero.jpg"
-heroTitle: 'GDG DevFest <typeout> 2014'
+heroTitle: "GDG DevFest Kozhikode 2014"
 eventDate: "29th November 2014, Saturday"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
