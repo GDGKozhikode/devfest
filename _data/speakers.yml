@@ -44,25 +44,9 @@
   thumbnailUrl: farishcv.png
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114055418793204110473/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+FarishCV"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/farishcv"}
     - {name: "twitter", link: "https://twitter.com/farishcv"}
     - {name: "facebook", link: "https://www.facebook.com/farish.cv"}
-
-- 
-  id: 7
-  name: "Amrit"
-  surname: "Sanjeev"
-  company: "Google, Developer Relations"
-  title: "Program Manager"
-  bio: "Program manager in Developer relations group @ Google"
-  thumbnailUrl: amrit.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+AmritSanjeev"}
-    - {name: "linkedin", link: "http://in.linkedin.com/pub/amrit-sanjeev/38/844/a49"}
-    - {name: "facebook", link: "https://www.facebook.com/amrit.sanjeev"}
