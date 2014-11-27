@@ -64,3 +64,16 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/farishcv"}
     - {name: "twitter", link: "https://twitter.com/farishcv"}
     - {name: "facebook", link: "https://www.facebook.com/farish.cv"}
+- 
+  id: 6
+  name: "Praveen"
+  surname: "Sridhar"
+  company: "Google Summer of Code 2014"
+  title: "Participant"
+  bio: "Praveen is a final year Mechanical Engineering student at CUSAT, who believes that Engineering and Computation must go hand in hand. An Open Knowledge enthusiast, he actively volunteers with the Mozilla community, promoting Web and Digital literacy. His GSoC project involved the development of an Indic Language Keyboard for Firefox OS."
+  thumbnailUrl: praveen-sridhar.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PraveenSridhar13"}
+    - {name: "linkedin", link: "http://in.linkedin.com/in/praveensridhar"}
+    - {name: "twitter", link: "https://twitter.com/psbots"}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=1078767553"}
