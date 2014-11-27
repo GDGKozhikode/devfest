@@ -32,7 +32,7 @@
   company: "DIY Hacking"
   title: "Maker"
   bio: '<p>Arvind Sanjeev is an electronics engineer, inventor and entrepreneur based in Cochin, Kerala. He is described as being a serial innovator at several platforms and is currently running an initiative called <a href="http://diyhacking.com">DIY (Do it Yourself) Hacking</a>. Yahoo-Accenture had also awarded him as the "Most Promising Innovator". He is the CEO and Chief Inventor at ARS Devices and has also served as the CTO to <a href="http://www.wearfin.com">RHL Vision Technologies</a> aka Fin Robotics. Arvind has developed several innovative gadgets and systems that has earned him recognition nationally and internationally . He was also featured in Techcrunch and has gained gargantuan media exposure for one of his projects that he developed for DIY Hacking.</p><p>Arvind has also recently authored a eBook titled- "<a href="http://maker.diyhacking.com/">How to be a maker</a>" and is working on building a DIY and maker community in India, he also does occasional talks and workshops at colleges on rapid prototyping and latest technologies.</p>'
-  thumbnailUrl: arvind.jpg
+  thumbnailUrl: ars.jpg
   rockstar: true
   social: 
     - {name: "site", link: "http://arvindsanjeev.wikispaces.com/Arvind+Sanjeev"}
