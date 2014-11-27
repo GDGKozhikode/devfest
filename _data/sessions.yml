@@ -30,7 +30,7 @@
   title: "Code Lab on Polymer"
   description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: workshop
-  speakers: [6,5]
+  speakers: [6]
   language: en
   complexity: "Beginner" 
 -
