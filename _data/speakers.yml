@@ -42,7 +42,6 @@
   title: "Community Manager"
   bio: "Community Manager @ GDG Kozhikode"
   thumbnailUrl: farishcv.png
-  rockstar: 
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
   social: 
@@ -61,7 +60,7 @@
   thumbnailUrl: amrit.jpg
   rockstar: true
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/experts/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+AmritSanjeev"}
     - {name: "linkedin", link: "http://in.linkedin.com/pub/amrit-sanjeev/38/844/a49"}
