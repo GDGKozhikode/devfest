@@ -13,15 +13,15 @@
   title: "Keynote Talk on Developer and Startup Ecosystem"
   description: ""
   subtype: keynote
-  speakers: [3]
+  speakers: [1]
   language: en
   complexity: "Intermediate"
 -
   id: 002
-  title: "Speaker Session on Wearable Technologies and IoT"
+  title: "Session on Wearable Technologies and IoT"
   description: '<a href="http://www.finrobotics.com/">Fin</a> and <a href="http://techcrunch.com/2014/07/29/indian-inventor-makes-a-decidedly-unsexy-but-cool-open-source-glass-clone/">Open Source Google Glass Clone</a>'
   subtype: presentation
-  speakers: [4]
+  speakers: [3]
   language: en
   complexity: "Beginner"
   video: "https://www.youtube.com/watch?v=FntF8EUtie0"
@@ -30,7 +30,7 @@
   title: "Code Lab on Polymer"
   description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: workshop
-  speakers: [6]
+  speakers: [5]
   language: en
   complexity: "Beginner" 
 -
@@ -38,7 +38,7 @@
   title: "Introducion to Polymer (Hangout Session)"
   description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: keynote
-  speakers: [7]
+  speakers: [2]
   language: en
   complexity: "Beginner"
 -
@@ -46,7 +46,7 @@
   title: "Workshop on Google Cloud Platform"
   description: "Google Cloud Platform lets you build and host applications and websites, store data, and analyze data on Google's scalable infrastructure."
   subtype: workshop
-  speakers: [5]
+  speakers: [4]
   language: en
   complexity: "Beginner"
 -

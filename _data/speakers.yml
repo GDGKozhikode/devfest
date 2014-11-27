@@ -1,5 +1,5 @@
 - 
-  id: 3
+  id: 1
   name: "Sijo"
   surname: "Kuruvilla George"
   company: "Startup Village"
@@ -11,47 +11,7 @@
     - {name: "site", link: "https://en.wikipedia.org/wiki/Sijo_Kuruvilla_George"}
     - {name: "linkedin", link: "http://in.linkedin.com/in/sijokuruvillageorge"}
 - 
-  id: 4
-  name: "Arvind"
-  surname: "Sanjeev"
-  company: "DIY Hacking"
-  title: "Maker"
-  bio: '<p>Arvind Sanjeev is an electronics engineer, inventor and entrepreneur based in Cochin, Kerala. He is described as being a serial innovator at several platforms and is currently running an initiative called <a href="http://diyhacking.com">DIY (Do it Yourself) Hacking</a>. Yahoo-Accenture had also awarded him as the "Most Promising Innovator". He is the CEO and Chief Inventor at ARS Devices and has also served as the CTO to <a href="http://www.wearfin.com">RHL Vision Technologies</a> aka Fin Robotics. Arvind has developed several innovative gadgets and systems that has earned him recognition nationally and internationally . He was also featured in Techcrunch and has gained gargantuan media exposure for one of his projects that he developed for DIY Hacking.</p><p>Arvind has also recently authored a eBook titled- "<a href="http://maker.diyhacking.com/">How to be a maker</a>" and is working on building a DIY and maker community in India, he also does occasional talks and workshops at colleges on rapid prototyping and latest technologies.</p>'
-  thumbnailUrl: arvind.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "http://arvindsanjeev.wikispaces.com/Arvind+Sanjeev"}
-    - {name: "linkedin", link: "http://in.linkedin.com/pub/arvind-sanjeev/45/197/700"}
-- 
-  id: 5
-  name: "Anoop"
-  surname: "Nayak"
-  company: "Octonius Inc"
-  title: "Co-Founder"
-  bio: "Anoop Nayak is a Computer Science Engineer and Innovator based in Cochin, Kerala. He is versatile coder usually referred to as the Package in all roles he has played all along. Beyond the tag of the codechef in a huge range of platforms, Anoop is known for his innovative approach in every tech & managerial lead he has taken up. He’s played a core part in the development of many projects in & out of his CSE field as he works towards using interdisciplinary technologies for building a better society. At present, Anoop steers the backend development of Octonius.Inc and has co-founded some of the early student entrepreneur initiatives. He has represented India in University Rover Challenge 2014 conducted by Mars Society at Mars Desert Research Station (MDRS) and CANSAT competition 2014 conducted by American Astronautical Society and NASA at USA. Anoop has represented India at Blackberry JamAsia 2012 at Bangkok following his win at national level. He has also played a key role in the planning and technical activities of Rubus Labs, SV."
-  thumbnailUrl: anoop.jpg
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://plus.google.com/+MateuszHerych"}
-    - {name: "github", link: "https://github.com/anoopknayak"}
-- 
-  id: 6
-  name: "Farish"
-  surname: "C.V"
-  company: "GDG Kozhikode"
-  title: "Community Manager"
-  bio: "Community Manager @ GDG Kozhikode"
-  thumbnailUrl: farishcv.png
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114055418793204110473/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+FarishCV"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/farishcv"}
-    - {name: "twitter", link: "https://twitter.com/farishcv"}
-    - {name: "facebook", link: "https://www.facebook.com/farish.cv"}
-
-- 
-  id: 7
+  id: 2
   name: "Amrit"
   surname: "Sanjeev"
   company: "Google India"
@@ -65,3 +25,42 @@
     - {name: "google-plus", link: "https://plus.google.com/+AmritSanjeev"}
     - {name: "linkedin", link: "http://in.linkedin.com/pub/amrit-sanjeev/38/844/a49"}
     - {name: "facebook", link: "https://www.facebook.com/amrit.sanjeev"}
+- 
+  id: 3
+  name: "Arvind"
+  surname: "Sanjeev"
+  company: "DIY Hacking"
+  title: "Maker"
+  bio: '<p>Arvind Sanjeev is an electronics engineer, inventor and entrepreneur based in Cochin, Kerala. He is described as being a serial innovator at several platforms and is currently running an initiative called <a href="http://diyhacking.com">DIY (Do it Yourself) Hacking</a>. Yahoo-Accenture had also awarded him as the "Most Promising Innovator". He is the CEO and Chief Inventor at ARS Devices and has also served as the CTO to <a href="http://www.wearfin.com">RHL Vision Technologies</a> aka Fin Robotics. Arvind has developed several innovative gadgets and systems that has earned him recognition nationally and internationally . He was also featured in Techcrunch and has gained gargantuan media exposure for one of his projects that he developed for DIY Hacking.</p><p>Arvind has also recently authored a eBook titled- "<a href="http://maker.diyhacking.com/">How to be a maker</a>" and is working on building a DIY and maker community in India, he also does occasional talks and workshops at colleges on rapid prototyping and latest technologies.</p>'
+  thumbnailUrl: arvind.jpg
+  rockstar: true
+  social: 
+    - {name: "site", link: "http://arvindsanjeev.wikispaces.com/Arvind+Sanjeev"}
+    - {name: "linkedin", link: "http://in.linkedin.com/pub/arvind-sanjeev/45/197/700"}
+- 
+  id: 4
+  name: "Anoop"
+  surname: "Nayak"
+  company: "Octonius Inc"
+  title: "Co-Founder"
+  bio: "Anoop Nayak is a Computer Science Engineer and Innovator based in Cochin, Kerala. He is versatile coder usually referred to as the Package in all roles he has played all along. Beyond the tag of the codechef in a huge range of platforms, Anoop is known for his innovative approach in every tech & managerial lead he has taken up. He’s played a core part in the development of many projects in & out of his CSE field as he works towards using interdisciplinary technologies for building a better society. At present, Anoop steers the backend development of Octonius.Inc and has co-founded some of the early student entrepreneur initiatives. He has represented India in University Rover Challenge 2014 conducted by Mars Society at Mars Desert Research Station (MDRS) and CANSAT competition 2014 conducted by American Astronautical Society and NASA at USA. Anoop has represented India at Blackberry JamAsia 2012 at Bangkok following his win at national level. He has also played a key role in the planning and technical activities of Rubus Labs, SV."
+  thumbnailUrl: anoop.jpg
+  rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://plus.google.com/+MateuszHerych"}
+    - {name: "github", link: "https://github.com/anoopknayak"}
+- 
+  id: 5
+  name: "Farish"
+  surname: "C.V"
+  company: "GDG Kozhikode"
+  title: "Community Manager"
+  bio: "Community Manager @ GDG Kozhikode"
+  thumbnailUrl: farishcv.png
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114055418793204110473/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+FarishCV"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/farishcv"}
+    - {name: "twitter", link: "https://twitter.com/farishcv"}
+    - {name: "facebook", link: "https://www.facebook.com/farish.cv"}
