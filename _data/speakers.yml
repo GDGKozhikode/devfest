@@ -28,7 +28,7 @@
   surname: "Nayak"
   company: "Octonius Inc"
   title: "Co-Founder"
-  bio: '<p>Anoop Nayak is a Computer Science Engineer based in Cochin, Kerala. He is a versatile coder, usually referred to as the <a href="#" onclick="alert(\"Ooh now that was an easter egg\");"><b>Package</b></a> in all roles he has played all along. Beyond the tag of the codechef in a huge range of platforms, Anoop is known for his innovative approach in every tech & managerial lead he has taken up. He steers the backend development of Octonius.Inc and has co-founded some of the early student entrepreneur initiatives in kerala. He has represented India in University Rover Challenge 2014 conducted by Mars Society at Mars Desert Research Station (MDRS) and CANSAT competition 2014 conducted by American Astronautical Society and NASA at USA. Anoop has represented India at Blackberry JamAsia 2012 at Bangkok following his win at national level. He has also played a key role in the planning and technical activities of Rubus Labs of Startup Village.</p><p>Anoop has steered as the tech lead to bring out 100 apps from 70 students in less than 30 days for the BlackBerry Internship Programme preceeding the BB10 launch. He is a popular pick by engineering students for technical sessions and workshops in the field of tech-entrepreneurship, image processing, robotics, programming languages. He has had an active contribution to Apache Bloodhound Project and IEEE during his college though he usually prefers handling stuff behind the scenes.</p>'
+  bio: '<p>Anoop Nayak is a Computer Science Engineer based in Cochin, Kerala. He is a versatile coder, usually referred to as the <a href="" onclick="alert('Ooh now that was an easter egg');"><b>Package</b></a> in all roles he has played all along. Beyond the tag of the codechef in a huge range of platforms, Anoop is known for his innovative approach in every tech & managerial lead he has taken up. He steers the backend development of Octonius.Inc and has co-founded some of the early student entrepreneur initiatives in kerala. He has represented India in University Rover Challenge 2014 conducted by Mars Society at Mars Desert Research Station (MDRS) and CANSAT competition 2014 conducted by American Astronautical Society and NASA at USA. Anoop has represented India at Blackberry JamAsia 2012 at Bangkok following his win at national level. He has also played a key role in the planning and technical activities of Rubus Labs of Startup Village.</p><p>Anoop has steered as the tech lead to bring out 100 apps from 70 students in less than 30 days for the BlackBerry Internship Programme preceeding the BB10 launch. He is a popular pick by engineering students for technical sessions and workshops in the field of tech-entrepreneurship, image processing, robotics, programming languages. He has had an active contribution to Apache Bloodhound Project and IEEE during his college though he usually prefers handling stuff behind the scenes.</p>'
   thumbnailUrl: anoop.jpg
   rockstar: true
   social: 
@@ -42,11 +42,28 @@
   title: "Community Manager"
   bio: "Community Manager @ GDG Kozhikode"
   thumbnailUrl: farishcv.png
-  rockstar: true
+  rockstar: 
   ribbon:
-    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114055418793204110473/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+FarishCV"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/farishcv"}
     - {name: "twitter", link: "https://twitter.com/farishcv"}
     - {name: "facebook", link: "https://www.facebook.com/farish.cv"}
+
+- 
+  id: 7
+  name: "Amrit"
+  surname: "Sanjeev"
+  company: "Google, Developer Relations"
+  title: "Program Manager"
+  bio: "Program manager in Developer relations group @ Google"
+  thumbnailUrl: amrit.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+    - {abbr: "Google", title: "Google Developer Relations", url: "https://developers.google.com"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+AmritSanjeev"}
+    - {name: "linkedin", link: "http://in.linkedin.com/pub/amrit-sanjeev/38/844/a49"}
+    - {name: "facebook", link: "https://www.facebook.com/amrit.sanjeev"}
