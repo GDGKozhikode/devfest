@@ -38,7 +38,7 @@
   title: "Introducion to Polymer (Hangout Session)"
   description: "Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements. With Polymer and Web Components, we can componentize the web!"
   subtype: keynote
-  speakers: []
+  speakers: [7]
   language: en
   complexity: "Beginner"
 -
