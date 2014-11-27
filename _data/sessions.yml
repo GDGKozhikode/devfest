@@ -32,7 +32,8 @@
   subtype: workshop
   speakers: [4, 5, 6, 7]
   language: en
-  complexity: "Beginner" 
+  complexity: "Beginner"
+  video: "https://www.youtube.com/watch?v=yRbOSdAe_JU" 
 -
   id: 004
   title: "Introducion to Polymer (Hangout Session)"
