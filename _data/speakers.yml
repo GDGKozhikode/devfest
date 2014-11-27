@@ -42,7 +42,7 @@
   title: "Community Manager"
   bio: "Community Manager @ GDG Kozhikode"
   thumbnailUrl: farishcv.png
-  rockstar: 
+  rockstar: true
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/114055418793204110473/"}
   social: 
