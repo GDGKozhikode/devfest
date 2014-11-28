@@ -24,7 +24,7 @@
   speakers: [3]
   language: en
   complexity: "Beginner"
-  video: "https://www.youtube.com/watch?v=FntF8EUtie0"
+  video: "https://www.youtube.com/embed/FntF8EUtie0"
 -
   id: 003
   title: "Code Lab on Polymer"
