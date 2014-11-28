@@ -66,8 +66,8 @@ heroButtons:
 
 aboutBlock:
  - {title: "Keynote Talks", image: "conference.jpg", text: "Keynote Talk on Developer and Startup Ecosystem, Things Developers Should Focus and Wearable Technolgies & Internet of Things (IoT)." }
- - {title: "Workshop", image: "workshop.jpg", text: "Workshop on Google Cloud Platform, lets you build and host applications and websites, store data, and analyze data on Google's scalable infrastructure." }
- - {title: "Code Lab", image: "polymer.png", text: "Code Lab on Polymer. Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, custom HTML elements." }
+ - {title: "Workshop", image: "workshop.jpg", text: "Workshop on Google Cloud Platform, lets you build and host applications and websites, store data, and analyze data on Google's infrastructure." }
+ - {title: "Code Lab", image: "polymer.png", text: "Code Lab on Polymer. Polymer is a new kind of library, built atop Web Components, that enables developers to create their own encapsulated, etc." }
 rockstarScheduleButtonText: "See full schedule"
 
 # Statistic Block
