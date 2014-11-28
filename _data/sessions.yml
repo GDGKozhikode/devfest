@@ -33,7 +33,7 @@
   speakers: [4, 5, 6, 7]
   language: en
   complexity: "Beginner"
-  video: "https://www.youtube.com/watch?v=yRbOSdAe_JU" 
+  video: "https://www.youtube.com/embed/yRbOSdAe_JU" 
 -
   id: 004
   title: "Things Developers Should Focus (Hangout Session)"
